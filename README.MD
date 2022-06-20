@@ -58,11 +58,13 @@
   <img src="./images/9.png" style="height: 300px; width: 600px;"/>
   
   &nbsp;
+
   Trigger manual:
   &nbsp;
   <img src="./images/10.png" style="height: 300px; width: 600px;"/>
 
   &nbsp;
+  
   Refresh and wait until task sucessful:
   &nbsp;
   <img src="./images/11.png" style="height: 300px; width: 600px;"/>

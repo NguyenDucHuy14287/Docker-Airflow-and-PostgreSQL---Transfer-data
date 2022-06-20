@@ -68,8 +68,6 @@
 
   Refresh and wait until task sucessful:
 
-  &nbsp;
-
   <img src="./images/11.png" style="height: 300px; width: 600px;"/>
 
   <li>Query DB Y again.</li>

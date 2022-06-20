@@ -41,13 +41,13 @@
   <img src="./images/3.png" style="height: 300px; width: 600px;"/>
 
   &nbsp;
-  
   <li>Add new server connection for Postgre Database X & Y.</li>
   a. Database name, Username and Password all are 'airflow' for X and 'airflowy' for Y.
   <img src="./images/4.png" style="height: 300px; width: 600px;"/>
   <img src="./images/5.png" style="height: 300px; width: 600px;"/>
 
   &nbsp;
+
   b. Query table 'transactions' in X and Y.
   <img src="./images/6.png" style="height: 300px; width: 600px;"/>
   <img src="./images/7.png" style="height: 300px; width: 600px;"/>
@@ -77,6 +77,8 @@
 
   <img src="./images/11.png" style="height: 300px; width: 600px;"/>
 
+  &nbsp;
+  
   <li>Query DB Y again.</li>
   <img src="./images/12.png" style="height: 300px; width: 600px;"/>
 

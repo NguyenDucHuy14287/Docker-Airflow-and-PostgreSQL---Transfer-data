@@ -1,6 +1,12 @@
 
 <h1>Docker: Airflow and PostgreSQL</h1>
 
+<h2>Enviroment:</h2>
+
+  - macOs Big Sur 11.3.1.
+  - Docker version 20.10.16.
+  - Docker compose version v2.6.0.
+
 <h3>A. Project structure</h3>
 
 + <strong>docker-compose.yml</strong>: including 4 main services and others

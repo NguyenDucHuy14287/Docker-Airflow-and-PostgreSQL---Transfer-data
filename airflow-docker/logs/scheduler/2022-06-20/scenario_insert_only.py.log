@@ -1,0 +1,322 @@
+[2022-06-20 08:17:52,875] {processor.py:153} INFO - Started process (PID=42) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:17:52,879] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:17:52,886] {logging_mixin.py:115} INFO - [2022-06-20 08:17:52,883] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:17:52,909] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:17:52,953] {logging_mixin.py:115} INFO - [2022-06-20 08:17:52,953] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:17:52,992] {logging_mixin.py:115} INFO - [2022-06-20 08:17:52,991] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:17:53,014] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.160 seconds
+[2022-06-20 08:18:23,120] {processor.py:153} INFO - Started process (PID=62) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:18:23,121] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:18:23,122] {logging_mixin.py:115} INFO - [2022-06-20 08:18:23,122] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:18:23,136] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:18:23,170] {logging_mixin.py:115} INFO - [2022-06-20 08:18:23,170] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:18:23,196] {logging_mixin.py:115} INFO - [2022-06-20 08:18:23,196] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:18:23,218] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.105 seconds
+[2022-06-20 08:18:53,318] {processor.py:153} INFO - Started process (PID=92) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:18:53,320] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:18:53,322] {logging_mixin.py:115} INFO - [2022-06-20 08:18:53,322] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:18:53,335] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:18:53,362] {logging_mixin.py:115} INFO - [2022-06-20 08:18:53,362] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:18:53,392] {logging_mixin.py:115} INFO - [2022-06-20 08:18:53,392] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:18:53,408] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.097 seconds
+[2022-06-20 08:19:23,511] {processor.py:153} INFO - Started process (PID=122) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:19:23,512] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:19:23,514] {logging_mixin.py:115} INFO - [2022-06-20 08:19:23,514] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:19:23,527] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:19:23,558] {logging_mixin.py:115} INFO - [2022-06-20 08:19:23,557] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:19:23,584] {logging_mixin.py:115} INFO - [2022-06-20 08:19:23,584] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:19:23,597] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.093 seconds
+[2022-06-20 08:19:53,717] {processor.py:153} INFO - Started process (PID=143) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:19:53,719] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:19:53,720] {logging_mixin.py:115} INFO - [2022-06-20 08:19:53,720] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:19:53,734] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:19:53,762] {logging_mixin.py:115} INFO - [2022-06-20 08:19:53,762] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:19:53,792] {logging_mixin.py:115} INFO - [2022-06-20 08:19:53,792] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:19:53,811] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.102 seconds
+[2022-06-20 08:20:23,932] {processor.py:153} INFO - Started process (PID=172) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:20:23,933] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:20:23,935] {logging_mixin.py:115} INFO - [2022-06-20 08:20:23,935] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:20:23,945] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:20:23,975] {logging_mixin.py:115} INFO - [2022-06-20 08:20:23,975] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:20:24,000] {logging_mixin.py:115} INFO - [2022-06-20 08:20:24,000] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:20:24,015] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.090 seconds
+[2022-06-20 08:20:54,126] {processor.py:153} INFO - Started process (PID=193) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:20:54,127] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:20:54,128] {logging_mixin.py:115} INFO - [2022-06-20 08:20:54,128] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:20:54,144] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:20:54,181] {logging_mixin.py:115} INFO - [2022-06-20 08:20:54,181] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:20:54,215] {logging_mixin.py:115} INFO - [2022-06-20 08:20:54,215] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:20:54,230] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.109 seconds
+[2022-06-20 08:21:24,298] {processor.py:153} INFO - Started process (PID=221) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:21:24,299] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:21:24,301] {logging_mixin.py:115} INFO - [2022-06-20 08:21:24,300] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:21:24,312] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:21:24,345] {logging_mixin.py:115} INFO - [2022-06-20 08:21:24,345] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:21:24,375] {logging_mixin.py:115} INFO - [2022-06-20 08:21:24,375] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:21:24,388] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.095 seconds
+[2022-06-20 08:21:54,491] {processor.py:153} INFO - Started process (PID=250) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:21:54,493] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:21:54,495] {logging_mixin.py:115} INFO - [2022-06-20 08:21:54,495] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:21:54,506] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:21:54,541] {logging_mixin.py:115} INFO - [2022-06-20 08:21:54,541] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:21:54,569] {logging_mixin.py:115} INFO - [2022-06-20 08:21:54,569] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:21:54,588] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.102 seconds
+[2022-06-20 08:22:24,709] {processor.py:153} INFO - Started process (PID=271) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:22:24,711] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:22:24,712] {logging_mixin.py:115} INFO - [2022-06-20 08:22:24,712] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:22:24,725] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:22:24,767] {logging_mixin.py:115} INFO - [2022-06-20 08:22:24,767] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:22:24,797] {logging_mixin.py:115} INFO - [2022-06-20 08:22:24,796] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:22:24,816] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.115 seconds
+[2022-06-20 08:22:54,874] {processor.py:153} INFO - Started process (PID=301) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:22:54,876] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:22:54,878] {logging_mixin.py:115} INFO - [2022-06-20 08:22:54,878] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:22:54,889] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:22:54,920] {logging_mixin.py:115} INFO - [2022-06-20 08:22:54,920] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:22:54,948] {logging_mixin.py:115} INFO - [2022-06-20 08:22:54,948] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:22:54,963] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.098 seconds
+[2022-06-20 08:23:25,097] {processor.py:153} INFO - Started process (PID=321) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:23:25,107] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:23:25,123] {logging_mixin.py:115} INFO - [2022-06-20 08:23:25,117] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:23:25,208] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:23:25,285] {logging_mixin.py:115} INFO - [2022-06-20 08:23:25,285] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:23:25,369] {logging_mixin.py:115} INFO - [2022-06-20 08:23:25,369] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:23:25,416] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.325 seconds
+[2022-06-20 08:23:55,518] {processor.py:153} INFO - Started process (PID=351) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:23:55,520] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:23:55,523] {logging_mixin.py:115} INFO - [2022-06-20 08:23:55,523] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:23:55,540] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:23:55,568] {logging_mixin.py:115} INFO - [2022-06-20 08:23:55,568] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:23:55,601] {logging_mixin.py:115} INFO - [2022-06-20 08:23:55,601] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:23:55,614] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.103 seconds
+[2022-06-20 08:24:25,738] {processor.py:153} INFO - Started process (PID=380) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:24:25,741] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:24:25,745] {logging_mixin.py:115} INFO - [2022-06-20 08:24:25,745] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:24:25,766] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:24:25,825] {logging_mixin.py:115} INFO - [2022-06-20 08:24:25,825] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:24:25,869] {logging_mixin.py:115} INFO - [2022-06-20 08:24:25,869] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:24:25,894] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.173 seconds
+[2022-06-20 08:24:56,033] {processor.py:153} INFO - Started process (PID=400) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:24:56,034] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:24:56,036] {logging_mixin.py:115} INFO - [2022-06-20 08:24:56,036] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:24:56,048] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:24:56,075] {logging_mixin.py:115} INFO - [2022-06-20 08:24:56,075] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:24:56,098] {logging_mixin.py:115} INFO - [2022-06-20 08:24:56,098] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:24:56,109] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.083 seconds
+[2022-06-20 08:25:26,201] {processor.py:153} INFO - Started process (PID=429) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:25:26,203] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:25:26,204] {logging_mixin.py:115} INFO - [2022-06-20 08:25:26,204] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:25:26,217] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:25:26,255] {logging_mixin.py:115} INFO - [2022-06-20 08:25:26,255] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:25:26,284] {logging_mixin.py:115} INFO - [2022-06-20 08:25:26,284] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:25:26,299] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.103 seconds
+[2022-06-20 08:25:56,423] {processor.py:153} INFO - Started process (PID=449) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:25:56,426] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:25:56,428] {logging_mixin.py:115} INFO - [2022-06-20 08:25:56,428] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:25:56,443] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:25:56,483] {logging_mixin.py:115} INFO - [2022-06-20 08:25:56,483] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:25:56,508] {logging_mixin.py:115} INFO - [2022-06-20 08:25:56,508] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:25:56,523] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.106 seconds
+[2022-06-20 08:26:26,648] {processor.py:153} INFO - Started process (PID=479) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:26:26,650] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:26:26,652] {logging_mixin.py:115} INFO - [2022-06-20 08:26:26,651] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:26:26,666] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:26:26,699] {logging_mixin.py:115} INFO - [2022-06-20 08:26:26,698] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:26:26,727] {logging_mixin.py:115} INFO - [2022-06-20 08:26:26,726] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:26:26,742] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.105 seconds
+[2022-06-20 08:26:56,836] {processor.py:153} INFO - Started process (PID=509) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:26:56,841] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:26:56,844] {logging_mixin.py:115} INFO - [2022-06-20 08:26:56,844] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:26:56,870] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:26:56,929] {logging_mixin.py:115} INFO - [2022-06-20 08:26:56,929] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:26:56,964] {logging_mixin.py:115} INFO - [2022-06-20 08:26:56,964] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:26:56,985] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.156 seconds
+[2022-06-20 08:27:27,082] {processor.py:153} INFO - Started process (PID=529) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:27:27,085] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:27:27,086] {logging_mixin.py:115} INFO - [2022-06-20 08:27:27,086] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:27:27,101] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:27:27,159] {logging_mixin.py:115} INFO - [2022-06-20 08:27:27,158] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:27:27,206] {logging_mixin.py:115} INFO - [2022-06-20 08:27:27,206] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:27:27,237] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.167 seconds
+[2022-06-20 08:27:57,393] {processor.py:153} INFO - Started process (PID=559) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:27:57,395] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:27:57,397] {logging_mixin.py:115} INFO - [2022-06-20 08:27:57,396] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:27:57,408] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:27:57,434] {logging_mixin.py:115} INFO - [2022-06-20 08:27:57,434] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:27:57,461] {logging_mixin.py:115} INFO - [2022-06-20 08:27:57,461] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:27:57,475] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.088 seconds
+[2022-06-20 08:28:27,582] {processor.py:153} INFO - Started process (PID=579) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:28:27,584] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:28:27,586] {logging_mixin.py:115} INFO - [2022-06-20 08:28:27,585] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:28:27,600] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:28:27,633] {logging_mixin.py:115} INFO - [2022-06-20 08:28:27,632] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:28:27,667] {logging_mixin.py:115} INFO - [2022-06-20 08:28:27,667] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:28:27,692] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.113 seconds
+[2022-06-20 08:28:57,784] {processor.py:153} INFO - Started process (PID=609) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:28:57,786] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:28:57,788] {logging_mixin.py:115} INFO - [2022-06-20 08:28:57,788] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:28:57,801] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:28:57,832] {logging_mixin.py:115} INFO - [2022-06-20 08:28:57,832] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:28:57,857] {logging_mixin.py:115} INFO - [2022-06-20 08:28:57,857] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:28:57,872] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.096 seconds
+[2022-06-20 08:29:27,984] {processor.py:153} INFO - Started process (PID=629) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:29:27,986] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:29:27,988] {logging_mixin.py:115} INFO - [2022-06-20 08:29:27,988] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:29:28,011] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:29:28,046] {logging_mixin.py:115} INFO - [2022-06-20 08:29:28,046] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:29:28,077] {logging_mixin.py:115} INFO - [2022-06-20 08:29:28,076] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:29:28,094] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.116 seconds
+[2022-06-20 08:29:58,207] {processor.py:153} INFO - Started process (PID=658) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:29:58,208] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:29:58,209] {logging_mixin.py:115} INFO - [2022-06-20 08:29:58,209] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:29:58,220] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:29:58,249] {logging_mixin.py:115} INFO - [2022-06-20 08:29:58,249] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:29:58,273] {logging_mixin.py:115} INFO - [2022-06-20 08:29:58,273] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:29:58,285] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.084 seconds
+[2022-06-20 08:30:28,387] {processor.py:153} INFO - Started process (PID=687) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:30:28,389] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:30:28,391] {logging_mixin.py:115} INFO - [2022-06-20 08:30:28,390] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:30:28,408] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:30:28,467] {logging_mixin.py:115} INFO - [2022-06-20 08:30:28,467] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:30:28,515] {logging_mixin.py:115} INFO - [2022-06-20 08:30:28,515] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:30:28,555] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.176 seconds
+[2022-06-20 08:30:58,674] {processor.py:153} INFO - Started process (PID=707) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:30:58,678] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:30:58,680] {logging_mixin.py:115} INFO - [2022-06-20 08:30:58,680] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:30:58,701] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:30:58,759] {logging_mixin.py:115} INFO - [2022-06-20 08:30:58,759] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:30:58,795] {logging_mixin.py:115} INFO - [2022-06-20 08:30:58,795] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:30:58,856] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.196 seconds
+[2022-06-20 08:31:28,978] {processor.py:153} INFO - Started process (PID=736) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:31:28,980] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:31:28,982] {logging_mixin.py:115} INFO - [2022-06-20 08:31:28,982] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:31:28,997] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:31:29,028] {logging_mixin.py:115} INFO - [2022-06-20 08:31:29,028] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:31:29,056] {logging_mixin.py:115} INFO - [2022-06-20 08:31:29,055] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:31:29,068] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.100 seconds
+[2022-06-20 08:31:59,183] {processor.py:153} INFO - Started process (PID=756) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:31:59,185] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:31:59,186] {logging_mixin.py:115} INFO - [2022-06-20 08:31:59,186] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:31:59,196] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:31:59,229] {logging_mixin.py:115} INFO - [2022-06-20 08:31:59,229] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:31:59,271] {logging_mixin.py:115} INFO - [2022-06-20 08:31:59,271] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:31:59,293] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.115 seconds
+[2022-06-20 08:32:29,415] {processor.py:153} INFO - Started process (PID=787) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:32:29,421] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:32:29,424] {logging_mixin.py:115} INFO - [2022-06-20 08:32:29,423] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:32:29,435] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:32:29,470] {logging_mixin.py:115} INFO - [2022-06-20 08:32:29,470] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:32:29,535] {logging_mixin.py:115} INFO - [2022-06-20 08:32:29,535] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:32:29,556] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.150 seconds
+[2022-06-20 08:32:59,740] {processor.py:153} INFO - Started process (PID=818) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:32:59,741] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:32:59,743] {logging_mixin.py:115} INFO - [2022-06-20 08:32:59,743] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:32:59,754] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:32:59,781] {logging_mixin.py:115} INFO - [2022-06-20 08:32:59,781] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:32:59,804] {logging_mixin.py:115} INFO - [2022-06-20 08:32:59,804] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:32:59,819] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.087 seconds
+[2022-06-20 08:33:29,965] {processor.py:153} INFO - Started process (PID=838) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:33:29,968] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:33:29,971] {logging_mixin.py:115} INFO - [2022-06-20 08:33:29,971] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:33:29,991] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:33:30,037] {logging_mixin.py:115} INFO - [2022-06-20 08:33:30,037] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:33:30,073] {logging_mixin.py:115} INFO - [2022-06-20 08:33:30,072] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:33:30,101] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.149 seconds
+[2022-06-20 08:34:00,221] {processor.py:153} INFO - Started process (PID=868) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:34:00,224] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:34:00,228] {logging_mixin.py:115} INFO - [2022-06-20 08:34:00,228] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:34:00,250] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:34:00,331] {logging_mixin.py:115} INFO - [2022-06-20 08:34:00,331] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:34:00,376] {logging_mixin.py:115} INFO - [2022-06-20 08:34:00,376] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:34:00,394] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.188 seconds
+[2022-06-20 08:34:30,480] {processor.py:153} INFO - Started process (PID=889) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:34:30,482] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:34:30,484] {logging_mixin.py:115} INFO - [2022-06-20 08:34:30,484] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:34:30,498] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:34:30,550] {logging_mixin.py:115} INFO - [2022-06-20 08:34:30,549] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:34:30,603] {logging_mixin.py:115} INFO - [2022-06-20 08:34:30,603] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:34:30,651] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.178 seconds
+[2022-06-20 08:35:00,751] {processor.py:153} INFO - Started process (PID=920) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:35:00,753] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:35:00,754] {logging_mixin.py:115} INFO - [2022-06-20 08:35:00,754] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:35:00,766] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:35:00,794] {logging_mixin.py:115} INFO - [2022-06-20 08:35:00,794] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:35:00,818] {logging_mixin.py:115} INFO - [2022-06-20 08:35:00,818] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:35:00,833] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.089 seconds
+[2022-06-20 08:35:30,948] {processor.py:153} INFO - Started process (PID=949) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:35:30,950] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:35:30,952] {logging_mixin.py:115} INFO - [2022-06-20 08:35:30,952] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:35:30,966] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:35:31,001] {logging_mixin.py:115} INFO - [2022-06-20 08:35:31,001] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:35:31,036] {logging_mixin.py:115} INFO - [2022-06-20 08:35:31,035] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:35:31,056] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.115 seconds
+[2022-06-20 08:36:01,169] {processor.py:153} INFO - Started process (PID=969) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:36:01,171] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:36:01,173] {logging_mixin.py:115} INFO - [2022-06-20 08:36:01,173] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:36:01,186] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:36:01,219] {logging_mixin.py:115} INFO - [2022-06-20 08:36:01,219] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:36:01,250] {logging_mixin.py:115} INFO - [2022-06-20 08:36:01,250] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:36:01,268] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.110 seconds
+[2022-06-20 08:36:31,369] {processor.py:153} INFO - Started process (PID=999) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:36:31,371] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:36:31,374] {logging_mixin.py:115} INFO - [2022-06-20 08:36:31,374] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:36:31,389] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:36:31,418] {logging_mixin.py:115} INFO - [2022-06-20 08:36:31,418] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:36:31,448] {logging_mixin.py:115} INFO - [2022-06-20 08:36:31,448] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:36:31,476] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.114 seconds
+[2022-06-20 08:37:01,599] {processor.py:153} INFO - Started process (PID=1028) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:37:01,601] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:37:01,604] {logging_mixin.py:115} INFO - [2022-06-20 08:37:01,603] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:37:01,623] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:37:01,678] {logging_mixin.py:115} INFO - [2022-06-20 08:37:01,678] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:37:01,713] {logging_mixin.py:115} INFO - [2022-06-20 08:37:01,713] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:37:01,737] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.151 seconds
+[2022-06-20 08:37:31,830] {processor.py:153} INFO - Started process (PID=1048) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:37:31,831] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:37:31,833] {logging_mixin.py:115} INFO - [2022-06-20 08:37:31,832] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:37:31,846] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:37:31,876] {logging_mixin.py:115} INFO - [2022-06-20 08:37:31,876] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:37:31,905] {logging_mixin.py:115} INFO - [2022-06-20 08:37:31,905] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:37:31,925] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.102 seconds
+[2022-06-20 08:38:02,099] {processor.py:153} INFO - Started process (PID=1078) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:38:02,101] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:38:02,102] {logging_mixin.py:115} INFO - [2022-06-20 08:38:02,102] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:38:02,114] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:38:02,145] {logging_mixin.py:115} INFO - [2022-06-20 08:38:02,144] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:38:02,171] {logging_mixin.py:115} INFO - [2022-06-20 08:38:02,171] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:38:02,185] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.093 seconds
+[2022-06-20 08:38:32,294] {processor.py:153} INFO - Started process (PID=1098) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:38:32,296] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:38:32,297] {logging_mixin.py:115} INFO - [2022-06-20 08:38:32,297] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:38:32,313] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:38:32,348] {logging_mixin.py:115} INFO - [2022-06-20 08:38:32,347] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:38:32,377] {logging_mixin.py:115} INFO - [2022-06-20 08:38:32,377] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:38:32,394] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.105 seconds
+[2022-06-20 08:39:02,492] {processor.py:153} INFO - Started process (PID=1128) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:39:02,494] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:39:02,497] {logging_mixin.py:115} INFO - [2022-06-20 08:39:02,496] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:39:02,509] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:39:02,547] {logging_mixin.py:115} INFO - [2022-06-20 08:39:02,547] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:39:02,584] {logging_mixin.py:115} INFO - [2022-06-20 08:39:02,583] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:39:02,605] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.118 seconds
+[2022-06-20 08:39:32,714] {processor.py:153} INFO - Started process (PID=1157) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:39:32,716] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:39:32,719] {logging_mixin.py:115} INFO - [2022-06-20 08:39:32,719] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:39:32,738] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:39:32,794] {logging_mixin.py:115} INFO - [2022-06-20 08:39:32,794] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:39:32,832] {logging_mixin.py:115} INFO - [2022-06-20 08:39:32,832] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:39:32,853] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.152 seconds
+[2022-06-20 08:40:02,951] {processor.py:153} INFO - Started process (PID=1179) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:40:02,952] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:40:02,954] {logging_mixin.py:115} INFO - [2022-06-20 08:40:02,954] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:40:02,968] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:40:03,011] {logging_mixin.py:115} INFO - [2022-06-20 08:40:03,011] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:40:03,046] {logging_mixin.py:115} INFO - [2022-06-20 08:40:03,046] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:40:03,068] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.121 seconds
+[2022-06-20 08:40:33,182] {processor.py:153} INFO - Started process (PID=1209) to work on /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:40:33,184] {processor.py:641} INFO - Processing file /opt/airflow/dags/scenario_insert_only.py for tasks to queue
+[2022-06-20 08:40:33,186] {logging_mixin.py:115} INFO - [2022-06-20 08:40:33,186] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:40:33,198] {processor.py:651} INFO - DAG(s) dict_keys(['scenario_insert_only']) retrieved from /opt/airflow/dags/scenario_insert_only.py
+[2022-06-20 08:40:33,233] {logging_mixin.py:115} INFO - [2022-06-20 08:40:33,233] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-06-20 08:40:33,259] {logging_mixin.py:115} INFO - [2022-06-20 08:40:33,259] {dag.py:2931} INFO - Setting next_dagrun for scenario_insert_only to 2022-06-20T00:00:00+00:00, run_after=2022-06-21T00:00:00+00:00
+[2022-06-20 08:40:33,275] {processor.py:161} INFO - Processing /opt/airflow/dags/scenario_insert_only.py took 0.101 seconds

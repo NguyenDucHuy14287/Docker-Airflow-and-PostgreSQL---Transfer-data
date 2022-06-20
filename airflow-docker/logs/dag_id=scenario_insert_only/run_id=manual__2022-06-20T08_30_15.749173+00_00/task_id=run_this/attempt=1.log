@@ -1,0 +1,38 @@
+[2022-06-20 08:30:16,414] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: scenario_insert_only.run_this manual__2022-06-20T08:30:15.749173+00:00 [queued]>
+[2022-06-20 08:30:16,447] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: scenario_insert_only.run_this manual__2022-06-20T08:30:15.749173+00:00 [queued]>
+[2022-06-20 08:30:16,450] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-20 08:30:16,454] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-06-20 08:30:16,459] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-20 08:30:16,521] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): run_this> on 2022-06-20 08:30:15.749173+00:00
+[2022-06-20 08:30:16,530] {standard_task_runner.py:52} INFO - Started process 647 to run task
+[2022-06-20 08:30:16,534] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'scenario_insert_only', 'run_this', 'manual__2022-06-20T08:30:15.749173+00:00', '--job-id', '15', '--raw', '--subdir', 'DAGS_FOLDER/scenario_insert_only.py', '--cfg-path', '/tmp/tmp0eg0s14k', '--error-file', '/tmp/tmp4ware0u5']
+[2022-06-20 08:30:16,536] {standard_task_runner.py:80} INFO - Job 15: Subtask run_this
+[2022-06-20 08:30:16,633] {task_command.py:370} INFO - Running <TaskInstance: scenario_insert_only.run_this manual__2022-06-20T08:30:15.749173+00:00 [running]> on host d7f065c79af8
+[2022-06-20 08:30:16,740] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=Airflow
+AIRFLOW_CTX_DAG_ID=scenario_insert_only
+AIRFLOW_CTX_TASK_ID=run_this
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-20T08:30:15.749173+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-20T08:30:15.749173+00:00
+[2022-06-20 08:30:16,744] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2022-06-20 08:30:16,745] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'python /opt/***/dags/script/transfer_case_insert_only.py']
+[2022-06-20 08:30:16,760] {subprocess.py:85} INFO - Output:
+[2022-06-20 08:30:17,083] {subprocess.py:92} INFO - relation "transactions" already exists
+[2022-06-20 08:30:17,085] {subprocess.py:92} INFO - 
+[2022-06-20 08:30:17,085] {subprocess.py:92} INFO - ========= 0
+[2022-06-20 08:30:17,086] {subprocess.py:92} INFO - database X:
+[2022-06-20 08:30:17,087] {subprocess.py:92} INFO - The number of parts:  4
+[2022-06-20 08:30:17,090] {subprocess.py:92} INFO - [('2022-06-11', 1000), ('2022-06-12', 2000), ('2022-06-13', 3000), ('2022-06-14', 6000)]
+[2022-06-20 08:30:17,091] {subprocess.py:92} INFO - insert data:  ('2022-06-11', 1000)
+[2022-06-20 08:30:17,092] {subprocess.py:92} INFO - insert data:  ('2022-06-12', 2000)
+[2022-06-20 08:30:17,093] {subprocess.py:92} INFO - insert data:  ('2022-06-13', 3000)
+[2022-06-20 08:30:17,094] {subprocess.py:92} INFO - insert data:  ('2022-06-14', 6000)
+[2022-06-20 08:30:17,094] {subprocess.py:92} INFO - insert list transaction successful
+[2022-06-20 08:30:17,098] {subprocess.py:96} INFO - Command exited with return code 0
+[2022-06-20 08:30:17,140] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=scenario_insert_only, task_id=run_this, execution_date=20220620T083015, start_date=20220620T083016, end_date=20220620T083017
+[2022-06-20 08:30:17,198] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-06-20 08:30:17,237] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

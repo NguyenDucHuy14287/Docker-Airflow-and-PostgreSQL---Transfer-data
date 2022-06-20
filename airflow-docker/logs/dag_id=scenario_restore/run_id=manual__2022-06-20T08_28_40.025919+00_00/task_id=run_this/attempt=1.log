@@ -1,0 +1,36 @@
+[2022-06-20 08:28:40,838] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: scenario_restore.run_this manual__2022-06-20T08:28:40.025919+00:00 [queued]>
+[2022-06-20 08:28:40,856] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: scenario_restore.run_this manual__2022-06-20T08:28:40.025919+00:00 [queued]>
+[2022-06-20 08:28:40,857] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-20 08:28:40,858] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-06-20 08:28:40,858] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-20 08:28:40,877] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): run_this> on 2022-06-20 08:28:40.025919+00:00
+[2022-06-20 08:28:40,885] {standard_task_runner.py:52} INFO - Started process 568 to run task
+[2022-06-20 08:28:40,892] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'scenario_restore', 'run_this', 'manual__2022-06-20T08:28:40.025919+00:00', '--job-id', '13', '--raw', '--subdir', 'DAGS_FOLDER/scenario_restore.py', '--cfg-path', '/tmp/tmpftovqve_', '--error-file', '/tmp/tmpe6lchijp']
+[2022-06-20 08:28:40,894] {standard_task_runner.py:80} INFO - Job 13: Subtask run_this
+[2022-06-20 08:28:40,986] {task_command.py:370} INFO - Running <TaskInstance: scenario_restore.run_this manual__2022-06-20T08:28:40.025919+00:00 [running]> on host d7f065c79af8
+[2022-06-20 08:28:41,093] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=Airflow
+AIRFLOW_CTX_DAG_ID=scenario_restore
+AIRFLOW_CTX_TASK_ID=run_this
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-20T08:28:40.025919+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-20T08:28:40.025919+00:00
+[2022-06-20 08:28:41,096] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2022-06-20 08:28:41,097] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'python /opt/***/dags/script/transfer_case_restore.py']
+[2022-06-20 08:28:41,113] {subprocess.py:85} INFO - Output:
+[2022-06-20 08:28:41,397] {subprocess.py:92} INFO - relation "transactions" already exists
+[2022-06-20 08:28:41,398] {subprocess.py:92} INFO - 
+[2022-06-20 08:28:41,401] {subprocess.py:92} INFO - =>TRUNCATE TABLE transactions SUCCESSFUL
+[2022-06-20 08:28:41,402] {subprocess.py:92} INFO - The number of parts:  4
+[2022-06-20 08:28:41,403] {subprocess.py:92} INFO - insert data:  ('2022-06-11', 1000)
+[2022-06-20 08:28:41,405] {subprocess.py:92} INFO - insert data:  ('2022-06-12', 2000)
+[2022-06-20 08:28:41,408] {subprocess.py:92} INFO - insert data:  ('2022-06-13', 3000)
+[2022-06-20 08:28:41,410] {subprocess.py:92} INFO - insert data:  ('2022-06-14', 6000)
+[2022-06-20 08:28:41,412] {subprocess.py:92} INFO - insert list transaction successful
+[2022-06-20 08:28:41,416] {subprocess.py:96} INFO - Command exited with return code 0
+[2022-06-20 08:28:41,485] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=scenario_restore, task_id=run_this, execution_date=20220620T082840, start_date=20220620T082840, end_date=20220620T082841
+[2022-06-20 08:28:41,599] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-06-20 08:28:41,641] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

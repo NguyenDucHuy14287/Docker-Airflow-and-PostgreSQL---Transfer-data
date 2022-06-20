@@ -41,6 +41,7 @@
   <img src="./images/3.png" style="height: 300px; width: 600px;"/>
 
   &nbsp;
+  
   <li>Add new server connection for Postgre Database X & Y.</li>
   a. Database name, Username and Password all are 'airflow' for X and 'airflowy' for Y.
   <img src="./images/4.png" style="height: 300px; width: 600px;"/>
@@ -80,6 +81,7 @@
   <img src="./images/12.png" style="height: 300px; width: 600px;"/>
 
   &nbsp;
+
   <li>Run command: <code>docker-compose stop</code> to stop.</li>
 </ol>
 

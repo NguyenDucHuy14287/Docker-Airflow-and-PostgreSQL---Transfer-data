@@ -4,10 +4,10 @@
 <h3>A. Project structure</h3>
 
 + <strong>docker-compose.yml</strong>: including 4 main services and others
-    + postgres: Database X, init POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB and data sample.
-    + postgresy: Database Y, init POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB.
-    + webserver: airflow webserver, connect with Database X. Expose port 8080 to 5884.
-    + pgadmin4: web UI for inspecting Database X & Y.
+    + postgres (image <strong>postgres:9.6</strong>): Database X, init POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB and data sample.
+    + postgresy (image <strong>apache/airflow:2.3.2</strong>): Database Y, init POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB.
+    + webserver (image <strong>apache/airflow:2.3.2</strong>): airflow webserver, connect with Database X. Expose port 8080 to 5884.
+    + pgadmin4 (image <strong>pgadmin</strong>): web UI for inspecting Database X & Y.
     + others (redis, airflow-init,...): dependencies of airflow. 
   
 + <strong>db/init.sql</strong>: init table and data sample when creating Database X container.

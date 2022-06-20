@@ -29,10 +29,10 @@
 <h3>B. Running flow</h3>
 
 <ol>
-  <li>Clone and <code>cd</code> into <strong>airflow-docker</strong> folder.</li>
+  <li>Clone this repo and <code>cd</code> into <strong>airflow-docker</strong> folder.</li>
 
   &nbsp;
-  <li>Run: <code>docker-compose up -d</code></li>
+  <li>Run command: <code>docker-compose up -d</code></li>
   Wait a minute until all containers alread started. 
 
   &nbsp;
@@ -42,7 +42,7 @@
 
   &nbsp;
   <li>Add new server connection for Postgre Database X & Y.</li>
-  a. Database name, Username and Password are 'airflow' for X and 'airflowy' for Y.
+  a. Database name, Username and Password all are 'airflow' for X and 'airflowy' for Y.
   <img src="./images/4.png" style="height: 300px; width: 600px;"/>
   <img src="./images/5.png" style="height: 300px; width: 600px;"/>
 
@@ -80,7 +80,7 @@
   <img src="./images/12.png" style="height: 300px; width: 600px;"/>
 
   &nbsp;
-  <li>Run: <code>docker-compose stop</code> to stop.</li>
+  <li>Run command: <code>docker-compose stop</code> to stop.</li>
 </ol>
 
 <h2>End.</h2>

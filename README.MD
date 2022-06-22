@@ -78,7 +78,7 @@
 
   &nbsp;
   
-  <li>Query DB Y again.</li>
+  <li>Query DB Y again. Data in table transactions of X are transered to Y.</li>
   <img src="./images/12.png" style="height: 300px; width: 600px;"/>
 
   &nbsp;

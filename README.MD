@@ -55,7 +55,6 @@
   &nbsp;
   <li>Go to <strong>localhost:5884</strong>. Login with user: 'airflow' and password: 'airflow'.</li>
   <img src="./images/8.png" style="height: 300px; width: 600px;"/>
-  <img src="./images/9.png" style="height: 300px; width: 600px;"/>
 
   &nbsp;
   <li>Trigger DAGs.</li>
